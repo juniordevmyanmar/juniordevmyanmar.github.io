@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Home - JuniorDev Myanmar</title>
+    <link>https://juniordevmyanmar.github.io/posts/</link>
+    <description>Recent content in Posts on Home - JuniorDev Myanmar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jun 2020 01:50:26 +0630</lastBuildDate>
+    
+	<atom:link href="https://juniordevmyanmar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Junior Dev Myanmar တည်ထောင်ရခြင်းရည်ရွယ်ချက်</title>
+      <link>https://juniordevmyanmar.github.io/posts/my-first-post/</link>
+      <pubDate>Sun, 21 Jun 2020 01:50:26 +0630</pubDate>
+      
+      <guid>https://juniordevmyanmar.github.io/posts/my-first-post/</guid>
+      <description>နည်းပညာလော ကထဲကိုခုမှဝင်မယ့် ဒါမှမဟုတ် ဝင်ခါစ Developerလား။ ဒါဆိုရင်တော့ သင့်မှာ တခုခု စိတ်လှုပ်ရှားတာ ဒါမှမဟုတ် လုပ်ငန်းခွင်နဲ့ဆိုင်တဲ့ မေးခွန်းတွေကို မေးချင်တာဖြစ်ဖြစ် ဒါမှမဟုတ် ကိုယ် အလုပ်ဝင်တဲ့ အတွေ့အကြုံတွေကို မျှဝေချင်တာပဲ ဖြစ်ဖြစ်ရှိနေပီဆိုရင် တော့ဒါသင်တယောက်ထဲ မဟုတ်တော့ပါဘူး။
+ဒီနေရာလေးမှာ JuniorDeveloper တွေ တွေ့ဆုံ ပီး အတွေ့အကြုံတွေဖလှယ်ဖို့အတွက် ရည်ရွယ်ပါတယ်။
+၂ပတ် တခါလောက်တွေ့ ကြမယ် တော်ကီပစ်မယ် အလုပ်မှာ တွေ့ ကြုံတဲ့ အတွေ့အကြုံ တွေ problem solution တွေ error တက်ပြီး time line မမှီတဲ့ အကြောင်းလေးတွေ(ဒါက ဖြစ်လေ့ဖြစ်ထရှိတယ် လေ) စသဖြင့်ပွားရင်း အကယ်လို sponsor တွေ ကျွေးတဲ့ မုန့်တွေ အအေးတွေ စားကြမယ်လေ။
+တခြားအချိန်တွေမှာတော့ ကျွန်တော် တို့ codeရေး ကြမယ် tutorialတွေ လုပ်ကြမယ်။ အကယ်လို့ အဆင်သင့်ခဲ့ ရင် Hackathon တွေတူတူပြိုင် ကြမယ် အတွေ့အကြုံရှိပြီးသား သူတွေဆီကနေ အကြံဉာဏ်သော်လည်းကောင်း အကူအညီသောလည်းကောင်း ရယူပီး ပိုကောင်းမွန်တဲ့ အရာတွေဖန်တီးကြမယ်။</description>
+    </item>
+    
+  </channel>
+</rss>
